@@ -4,7 +4,7 @@ package com.niuyalong.design;
  * @author niuyalong
  * @version v1.0
  * @date 2019/6/3 20:32
- * @description TODO
+ * @description 测试单例
  */
 public class Demo {
 
